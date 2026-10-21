@@ -10,7 +10,7 @@
 ### 🧭 關於我
 - 💪 **優勢**：問題驅動的鑽研者，遇到想搞懂的問題會一路挖到底（從零自學到用 AI 做出自己的網站）；重承諾、有責任感；脾氣好、有耐心，適合長期合作
 - 🌱 **正在練習**：專注一條主線，不同時開太多坑；把「之後再做」變成「今天先做一小步」；更直接地表達自己的想法
-- ⚙️ **我的工作方式**：給我一個具體問題，比給我一份課表有效；在好的環境（咖啡廳、出差途中）效率最高
+- ⚙️ **我的工作方式**：給我一個具體問題，比給我一份課表有效；換個好環境（例如出差途中）效率最高
 
 ---
 
@@ -25,4 +25,4 @@
 ### 🧭 About me
 - 💪 **Strengths**: a problem-driven deep diver. When I want to understand something, I dig until I do (went from zero to shipping my own website with AI). I keep my promises, stay calm, and am patient, which makes me a good long-term partner
 - 🌱 **Working on**: sticking to one main track instead of opening too many projects; turning "later" into "one small step today"; voicing my opinions more directly
-- ⚙️ **How I work best**: give me a concrete problem rather than a syllabus; I'm most productive in a good environment (a café, or on the road)
+- ⚙️ **How I work best**: give me a concrete problem rather than a syllabus; a change of environment (e.g. being on the road) gets me going
